@@ -1,0 +1,33 @@
+div1{
+    display: inline-block;
+    width: 250px;
+    height: 500px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    border: 5px solid #031453;
+    padding: 2px;
+    margin: 10px 100px 100px 0px;
+}
+div2{
+    display: inline-block;
+    width: 250px;
+    height: 450px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    border: 5px solid #031453;
+    padding: 2px;
+    margin: 10px 100px 100px 0px;
+}
+div3{
+    display: inline-block;
+    width: 250px;
+    height: 450px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    border: 5px solid #031453;
+    padding: 2px;
+    margin: 10px 100px 100px 0px;
+}
+body{
+    background-color: yellowgreen;
+}
